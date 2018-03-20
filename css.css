@@ -156,8 +156,7 @@ li {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-TVKv7_6pjOVaoSMuej9HmU-lK242sfsEvzXTtuZDQwkIm5Qm");
     background-position: center;
     height: 550px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-radius: 0;
     background-size: cover;
     position: relative;
     margin: auto;
