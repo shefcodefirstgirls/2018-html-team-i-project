@@ -102,13 +102,13 @@ li {
   background-position: center;
 }
 .Description{
-background-image: url("https://image.dhgate.com/0x0/f2/albu/g5/M00/2A/B3/rBVaJFhGEXmAICTdAACGI7lYmUw672.jpg");
+  background-image: url("https://image.dhgate.com/0x0/f2/albu/g5/M00/2A/B3/rBVaJFhGEXmAICTdAACGI7lYmUw672.jpg");
 }
 .Method{
-background-image: url("https://image.dhgate.com/0x0/f2/albu/g5/M00/2A/B3/rBVaJFhGEXmAICTdAACGI7lYmUw672.jpg")
+  background-image: url("https://image.dhgate.com/0x0/f2/albu/g5/M00/2A/B3/rBVaJFhGEXmAICTdAACGI7lYmUw672.jpg")
 }
 .Ingredients{
-background-image: url("https://image.dhgate.com/0x0/f2/albu/g5/M00/2A/B3/rBVaJFhGEXmAICTdAACGI7lYmUw672.jpg")
+  background-image: url("https://image.dhgate.com/0x0/f2/albu/g5/M00/2A/B3/rBVaJFhGEXmAICTdAACGI7lYmUw672.jpg")
 }
 h1 {
   font-size: 70px;
@@ -273,9 +273,6 @@ form {
         width: 100%;
     }
 }
-
-
-
 
 /*Haroula
 
